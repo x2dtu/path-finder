@@ -2,7 +2,7 @@
 This is a personal project I created intended to learn more about various pathfinding algorithms by seeing their strengths and weaknesses in different types of mazes. This project was created using python pygame and visualizes depth-first search, breadth-first search, and A* pathfinding in user-created mazes and pathfinding scenarios. Please email me at 3069391@gmail.com or comment on this project page should you have any questions about the visualizer, suggestions for further improvement, or have found any bugs.
 
 ## Screenshots 
-<img src="https://user-images.githubusercontent.com/82241006/177055972-4c30bccc-39ee-4c27-ba9d-dfedaf38445a.png" alt="A*" pathfinding width="500" />
+<img src="https://user-images.githubusercontent.com/82241006/177055972-4c30bccc-39ee-4c27-ba9d-dfedaf38445a.png" alt="A* pathfinding" width="500" />
 <img src="https://user-images.githubusercontent.com/82241006/177056008-82dfefaf-d5e6-40ad-97cd-1abef8abad73.png" alt="BFS pathfining" width="500" />
 <img src="https://user-images.githubusercontent.com/82241006/177056053-876f53d4-e82d-48bb-b278-d54d030f3c91.png" alt="DFS pathfining" width="500" />
 <img src="https://user-images.githubusercontent.com/82241006/177056063-0cea4718-81b7-4604-a578-8458c225f790.png" alt="Main Menu" width="500" />
