@@ -3,13 +3,11 @@ This is a personal project I created intended to learn more about various pathfi
 
 ## Screenshots 
 <div style="display: flex; justify-content: space-evenly;">
-<img src="https://user-images.githubusercontent.com/82241006/177055972-4c30bccc-39ee-4c27-ba9d-dfedaf38445a.png" alt="start page" width="400"/>
-<img src="https://user-images.githubusercontent.com/82241006/177056008-82dfefaf-d5e6-40ad-97cd-1abef8abad73.png" alt="start page" width="400"/>
-<img src="https://user-images.githubusercontent.com/82241006/177056053-876f53d4-e82d-48bb-b278-d54d030f3c91.png" alt="start page" width="400"/>
-<img src="https://user-images.githubusercontent.com/82241006/177056063-0cea4718-81b7-4604-a578-8458c225f790.png" alt="start page" width="400"/>
-</div>
-![image](https://user-images.githubusercontent.com/82241006/177056063-0cea4718-81b7-4604-a578-8458c225f790.png)
- 
+<img src="https://user-images.githubusercontent.com/82241006/177055972-4c30bccc-39ee-4c27-ba9d-dfedaf38445a.png" alt="start page" width="400" style="margin: 0.5em" />
+<img src="https://user-images.githubusercontent.com/82241006/177056008-82dfefaf-d5e6-40ad-97cd-1abef8abad73.png" alt="start page" width="400" style="margin: 0.5em"/>
+<img src="https://user-images.githubusercontent.com/82241006/177056053-876f53d4-e82d-48bb-b278-d54d030f3c91.png" alt="start page" width="400" style="margin: 0.5em"/>
+<img src="https://user-images.githubusercontent.com/82241006/177056063-0cea4718-81b7-4604-a578-8458c225f790.png" alt="start page" width="400" style="margin: 0.5em"/>
+</div> 
 
 ## Setup Instructions
 1. First, download the source code, either by executing a `git clone https://github.com/x2dtu/path-finder.git` in a terminal or downloading the project as a zip through the Github page and extracting that zip.
